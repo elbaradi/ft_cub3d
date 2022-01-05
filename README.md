@@ -3,7 +3,7 @@ Note: _This was my fifth 42 project, completed February 2021. It was my biggest 
 [![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/qingqingqingli/cub3d)
 
 # cub3d
-***This project is a graphic design project, inspired by the famous game [Wolfenstein 3D](http://users.atw.hu/wolf3d/). We create a "realistic" 3D graphical representation of the inside of a maze from a first person perspective, using Ray-Casting principles.***
+***This project is a graphic design project, inspired by the famous game [Wolfenstein 3D](http://users.atw.hu/wolf3d/). Creating a "realistic" 3D graphical representation of the inside of a maze from a 2D map, with a first person perspective using Ray-Casting principles.***
 
 ## Technical details
 

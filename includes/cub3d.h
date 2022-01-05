@@ -6,15 +6,15 @@
 /*   By: tel-bara <tel-bara@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2021/01/04 16:10:01 by tel-bara      #+#    #+#                 */
-/*   Updated: 2021/02/27 23:20:23 by tel-bara      ########   odam.nl         */
+/*   Updated: 2022/01/05 23:07:00 by tel-bara      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef CUB3D_H
 # define CUB3D_H
 
-# include "../libft/libft.h"
-# include "../minilibx_mms_20200219/mlx.h"
+# include "libft.h"
+# include "mlx.h"
 # include <math.h>
 # include <fcntl.h>
 # include <stdio.h>
